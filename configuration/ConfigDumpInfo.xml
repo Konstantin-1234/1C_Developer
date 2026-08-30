@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.aiCoder_GitHub_Репозитории" id="bd6aa6d2-2c66-4ec2-a970-0d12c2c20d3b" configVersion="fb6ca55bcd2298a7181e4e6ac064376643bea172">
+			<Metadata name="Catalog.aiCoder_GitHub_Репозитории.Attribute.Логин" id="07262e24-9903-445b-825a-0bc30464046f"/>
+			<Metadata name="Catalog.aiCoder_GitHub_Репозитории.Attribute.Репозиторий" id="1f90c1ef-d603-43db-aeba-12233f60b2b0"/>
+			<Metadata name="Catalog.aiCoder_GitHub_Репозитории.Attribute.Токен" id="357ca8a5-1f39-4901-b19c-ecffd3963b08"/>
+			<Metadata name="Catalog.aiCoder_GitHub_Репозитории.Attribute.Ветка" id="440e441d-cd83-4a96-86e0-a7c90295835a"/>
+		</Metadata>
+		<Metadata name="Catalog.aiCoder_GitHub_Репозитории.Form.ФормаЭлемента" id="4772708a-bc64-45b9-a988-f52006865cb9" configVersion="1de2779796c4db2b0d05a36322a61623bdca8763"/>
+		<Metadata name="Catalog.aiCoder_GitHub_Репозитории.Form.ФормаЭлемента.Form" id="4772708a-bc64-45b9-a988-f52006865cb9.0" configVersion="89282dd24643ddc2c072c181577cece7685b95cb"/>
+		<Metadata name="Catalog.aiCoder_Проекты" id="1fe73a4c-4252-4db4-945c-c0ecaca2ce33" configVersion="8c5f73cede6f30f61db48a5d9c7d226a62cfbfaf">
+			<Metadata name="Catalog.aiCoder_Проекты.Attribute.РепозиторийИмя" id="18b28de2-c7c1-4d8e-beaa-dd29a93a2c10"/>
+		</Metadata>
+		<Metadata name="Catalog.aiCoder_РазныеЗнания" id="67415966-5c7a-4643-ad22-d44ef8984e01" configVersion="0c76ca9d5279a2cb118314d0d82f60ba9a6ebc9a">
+			<Metadata name="Catalog.aiCoder_РазныеЗнания.Attribute.Текст" id="9243d844-6595-4f31-baf9-9bd09eb2527f"/>
+			<Metadata name="Catalog.aiCoder_РазныеЗнания.Attribute.Комментарий" id="b8cf0fa1-0d31-4afe-b389-23d4a840ea61"/>
+		</Metadata>
+		<Metadata name="Catalog.aiCoder_РазныеЗнания.Form.ФормаЭлемента" id="e76c2402-abb7-40cc-8653-a9de3273ba8b" configVersion="6c819a11c0a1845cc292e43ca26d454b7aabf71f"/>
+		<Metadata name="Catalog.aiCoder_РазныеЗнания.Form.ФормаЭлемента.Form" id="e76c2402-abb7-40cc-8653-a9de3273ba8b.0" configVersion="65c12f0e3a78b7d762ed6b1481987fdc3a8e183a"/>
+		<Metadata name="Configuration.Разработчик1С" id="0a38a2d4-09af-4463-b5dc-04ddf5899efd" configVersion="135e8adc8d49394cfdd01231de51775eb32dba44"/>
+		<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ" id="ed335cf5-5ae2-4e99-b28f-b574ed3df5ba" configVersion="5c402b2c52caf55111dd830e478ade4dd8e358f7">
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.ПодключениеКБазе_Пользователь" id="17cb122f-685e-4f67-a690-235e07f64275"/>
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.КаталогВыгрузкиXML" id="66e86c37-bc9d-471e-b770-2ba8eac52589"/>
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.GitHub_Репозиторий" id="a3b7f2c3-fb2a-4108-8847-b3f5aebbc1a7"/>
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.ПрефиксОбъектовМетаданных" id="daf865f6-905a-4f35-8456-743ac42bedcd"/>
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.ПодключениеКБазе_Адрес" id="df952cea-a834-4ae7-8d36-68892b8006ab"/>
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.ИмяРасширенияКонфигурации" id="f0beb5bd-7fa3-4deb-80ec-ba3b22d3c5e8"/>
+			<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Attribute.ПодключениеКБазе_Пароль" id="f0f82ce8-c197-4ff0-b26b-45bc44720d9e"/>
+		</Metadata>
+		<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Form.Форма" id="c4278dab-fe8e-4b1f-8474-f0d90cf23253" configVersion="fd76060d80bc858989c0fe287415d660f96e39aa"/>
+		<Metadata name="DataProcessor._ПубликацияКонфигурацииДляИИ.Form.Форма.Form" id="c4278dab-fe8e-4b1f-8474-f0d90cf23253.0" configVersion="2e9df8e502ce502bb8c061c0d53f6b872e2d9895"/>
+		<Metadata name="Language.Русский" id="4fca3f00-0543-40ec-a362-cec7e634a847" configVersion="21b16afee8033737563f15b800850cd45773f504"/>
+		<Metadata name="Role.__ОсновнаяРоль" id="a1f3b82c-a2bd-4a7c-9a82-7f58cc85e128" configVersion="08c764baf667a38528128bbc02b933d99adb88f4"/>
+		<Metadata name="Subsystem.aiCoder_" id="6d0cfeb5-316a-4c50-b610-d8e99e9e5d92" configVersion="181b26ed9c6b99aa62e260addec0cddce5aba11a"/>
+		<Metadata name="Subsystem.aiCoder_.Subsystem.aiCoder_Знания" id="2b9060da-6eee-450d-9d00-2acae33f72bd" configVersion="9f23efebc3ff6bb4dbce9bc3bd21fab8fec472ae"/>
+		<Metadata name="Subsystem.aiCoder_.Subsystem.aiCoder_Обработки" id="f3ac1cf9-c98a-485c-8726-f08a3769a920" configVersion="7cd92ddae28efb4fa0dbfbf320bd38e21c730b9e"/>
+		<Metadata name="Subsystem.aiCoder_.Subsystem.aiCoder_Проекты" id="52f744fa-d6cc-4995-aaff-a4a03bfde38b" configVersion="bea73562aa49e8a25bb15a92a03027c58cddfec2"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
