@@ -72,6 +72,7 @@
 			<Catalog>aiCoder_GitHub_Репозитории</Catalog>
 			<Catalog>aiCoder_РазныеЗнания</Catalog>
 			<DataProcessor>_ПубликацияКонфигурацииДляИИ</DataProcessor>
+			<DataProcessor>_ПубликацияКонфигурацииДляИИ_СтарыйВариант</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
